@@ -1,0 +1,48 @@
+.iloveradio  {
+	 left: 700px;
+	 top: 200px;
+	 position: absolute;
+	 float:left;
+}
+
+.bigfm {
+	 left: 100px;
+	 top: 200px;
+	 position: absolute;
+	 float:left;
+}
+
+.bonnfm {
+	 left: 300px;
+	 top: 400px;
+	 position: absolute;
+	 float:left;
+}
+
+.rbrs {
+	 left: 400px;
+	 top: 600px;
+	 position: absolute;
+	 float:right;
+}
+
+.swr3 {
+	 right: 100px;
+	 top: 200px;
+	 position: absolute;
+	 float:right;
+}
+
+.live {
+	 right: 300px;
+	 top: 400px;
+	 position: absolute;
+	 float:right;
+}
+
+.radiobob {
+	 right: 400px;
+	 top: 600px;
+	 position: absolute;
+	 float:right;
+}
