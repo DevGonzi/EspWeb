@@ -80,8 +80,8 @@ include "templates/blattern.php";
       <!-- <th>Uhrzeit</th> -->
       <th>Temperatur innen</th>
       <th>Luftfeuchtigkeit innen</th>
-      <th>Temperatur Außen</th>
-      <th>Luftfeuchtigkeit Außen</th>
+      <th>Temperatur außen</th>
+      <th>Luftfeuchtigkeit außen</th>
 
       <th>Löschen</th>
     </tr>
