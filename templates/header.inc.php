@@ -21,7 +21,7 @@
             <span class="icon-bar"></span>
           </button>
           <!-- <a class="navbar-brand" href="index.php"><i class="glyphicon glyphicon-leaf logo"></i> Sensordaten</a> -->
-          <a class="navbar-brand" href="index.php"><img src="./templates/logo.png" width="50" height="25"></img></a>
+          <a class="navbar-brand" href="index.php"><img src="./templates/logo.gif"></img></a>
 
         </div>
         <?php if(!is_checked_in()): ?>
