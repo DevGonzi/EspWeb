@@ -9,8 +9,7 @@
 
     <link href="css/style.css" rel="stylesheet">
   </head>
-  <body>
-  
+  <body>  
   <nav class="navbar navbar-inverse navbar-static-top">
       <div class="container">
         <div class="navbar-header">
@@ -21,8 +20,8 @@
             <span class="icon-bar"></span>
           </button>
           <!-- <a class="navbar-brand" href="index.php"><i class="glyphicon glyphicon-leaf logo"></i> Sensordaten</a> -->
-          <a class="navbar-brand" href="index.php"><img src="./templates/logo.gif"></img></a>
-
+          <a class="navbar-brand" href="index.php"><img src="./templates/logo.png" width="50" height="25"></img></a>
+          <a class="navbar-brand"><img src="./templates/logo.gif"></img></a>
         </div>
         <?php if(!is_checked_in()): ?>
         <div id="navbar" class="navbar-collapse collapse">
