@@ -14,7 +14,7 @@ $sql_sensor = "INSERT INTO data (temperatur, humidity, temperatur2, humidity2) V
 // $sql_sensor1 = "INSERT INTO data (temperatur, humidity, sensor) VALUES ('" . $_GET["temperatur"] . "', '" . $_GET["humidity"] . "', '" . $_GET["sensor"] . "')";
 // $sql_sensor2 = "INSERT INTO data (temperatur, humidity, sensor) VALUES ('" . $_GET["temperatur2"] . "', '" . $_GET["humidity2"] . "', '" . $_GET["sensor2"] . "'
 
-if (mysqli_query($dbcon, $sql_sensor1) && mysqli_query($dbcon, $sqlinsert)) {
+if (mysqli_query($dbcon, $sql_sensor1) && mysqli_query($dbcon, $sql_insert)) {
 // if (mysqli_query($dbcon, $sql_sensor)) {
     echo "Eingetragen!";
     mysqli_close($dbcon);
