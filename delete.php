@@ -20,10 +20,12 @@ alert('Für diesen Vorgang hast du keine Berechtigung!')
 <?php
 	$del_id = $_GET['delete'];
 
-	$servername = "localhost";
+	$servername = "85.214.153.77";
 	$username = "esp";
-	$password = "AgfA$0000";
-	$dbname = "esp";
+	$password = "WqvYd3D5ptsF9tAWXONb";
+    $dbname = "esp";
+
+
     $db = new mysqli($servername, $username, $password, $dbname); 
         if (mysqli_connect_errno()) { 
         die ('Konnte keine Verbindung zur Datenbank aufbauen:  
