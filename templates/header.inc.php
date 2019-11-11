@@ -3,7 +3,7 @@
 
 <style>
 body {
-    background:url('./templates/logo2.gif') center;
+    background:url('./templates/logo2.gif') center repeat;
     /* height:100%; */
     /* width:100%; */
     background-position: center;
@@ -31,7 +31,7 @@ body {
           <span class="icon-bar"></span>
         </button>
         <!-- <a class="navbar-brand" href="index.php"><i class="glyphicon glyphicon-leaf logo"></i> Sensordaten</a> -->
-        <a class="navbar-brand" href="index.php"><img src="./templates/logo.gif" width="100" height="83"></img></a>
+        <!-- <a class="navbar-brand" href="index.php"><img src="./templates/logo.gif" width="100" height="83"></img></a> -->
         <!-- <a class="navbar-brand"><img src="./templates/logo.gif"></img></a> -->
       </div>
       <?php if(!is_checked_in()): ?>
