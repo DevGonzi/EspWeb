@@ -3,7 +3,7 @@
 
 <style>
 body {
-    background:url('./templates/logo2.gif') center repeat;
+    background:url('./templates/logo2.gif') center no-repeat;
     /* height:100%; */
     /* width:100%; */
     background-position: center;
