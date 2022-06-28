@@ -1,8 +1,8 @@
 <?php
-$db_host = '85.214.153.77';
-$db_name = 'esp';
-$db_user = 'esp';
-$db_password = 'WqvYd3D5ptsF9tAWXONb';
+$db_host = 'x';
+$db_name = 'x';
+$db_user = 'x';
+$db_password = 'x';
 
 // PDO Connection
 $pdo = new PDO("mysql:host=$db_host;dbname=$db_name", $db_user, $db_password);
