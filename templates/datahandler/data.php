@@ -1,8 +1,8 @@
 <?php
-$host = "85.214.153.77";
-$dbuser = "esp";
-$dbpass = "WqvYd3D5ptsF9tAWXONb";
-$dbname = "esp";
+$host = "x";
+$dbuser = "x";
+$dbpass = "x";
+$dbname = "x";
 $dbcon = mysqli_connect($host, $dbuser, $dbpass, $dbname);
 
 // $sql_insert = "INSERT INTO data (temperature, humidity, heat_index) VALUES ('".$_GET["temperature"]."', '".$_GET["humidity"]."', '".$_GET["heat_index"]."')";
